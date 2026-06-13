@@ -1,0 +1,13 @@
+# 压缩包（截图文件夹已有原图，不需要提交 zip）
+screenshots.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
